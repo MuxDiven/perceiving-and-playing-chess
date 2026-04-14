@@ -1,0 +1,43 @@
+# Ignore Python virtual environment
+venv/
+.env/
+*.env
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore text files
+*.txt
+
+# Ignore compiled binaries or temporary files
+*.log
+*.tmp
+
+# Ignore IDE/project settings
+.vscode/
+.idea/
+
+# LaTeX intermediate files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.ilg
+*.ind
+*.lof
+*.log
+*.lot
+*.out
+*.toc
+*.run.xml
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.xdv
+*.nav
+*.snm
+build/
+out/
+_build/
+dist/
