@@ -1,6 +1,6 @@
 # Perceiving and Playing Chess
 
-The paper can be found above as as `.pdf` file
+The paper can be found above [HERE](./Perceiving%20and%20Playing%20Chess%20A%20Pipeline%20between%20Agents%20and%20Computer%20Vision.pdf)
 
 Below details the instructions for installing the project dependencies and building
 
@@ -40,7 +40,7 @@ Helpful details for Camera configuration options presented within the CLI
 
 |                 Image 1                  |                    Image 2                     |                     Image 3                     |                     Image 4                      |
 | :--------------------------------------: | :--------------------------------------------: | :---------------------------------------------: | :----------------------------------------------: |
-| ![0deg](assets/images/top_down_zoom.png) | ![90deg](assets/images/top_down_zoom_90cw.png) | ![1800deg](assets/images/top_down_zoom_180.png) | ![270deg](assets/images/top_down_zoom_270cw.png) |
+| ![0deg](assets/images/top_down_zoom.png) | ![90deg](assets/images/top_down_zoom_90cw.jpg) | ![1800deg](assets/images/top_down_zoom_180.jpg) | ![270deg](assets/images/top_down_zoom_270cw.jpg) |
 |         _0/360 Deg angle offset_         |             _90 Deg angle offset_              |             _180 Deg angle offset_              |              _270 Deg angle offset_              |
 
 3. Configure as normal from here
