@@ -1,6 +1,6 @@
 # Perceiving and Playing Chess
 
-The paper can be found above [HERE](./Perceiving%20and%20Playing%20Chess%20A%20Pipeline%20between%20Agents%20and%20Computer%20Vision.pdf)
+The paper can be found above [HERE](./dissertation.pdf)
 
 Below details the instructions for installing the project dependencies and building
 
