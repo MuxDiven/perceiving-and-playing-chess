@@ -1,0 +1,6 @@
+pygame-ce
+chess
+torch
+numpy
+polars
+opencv-python

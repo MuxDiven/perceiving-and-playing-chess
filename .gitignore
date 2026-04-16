@@ -7,9 +7,6 @@ venv/
 __pycache__/
 *.py[cod]
 
-# Ignore text files
-*.txt
-
 # Ignore compiled binaries or temporary files
 *.log
 *.tmp
