@@ -4,7 +4,7 @@ The paper can be found above [HERE](./dissertation.pdf)
 
 Below details the instructions for installing the project dependencies and building
 
-## Normal Configuration
+## Build Instructions & Configuration
 
 From the root directory, create a venv and install packages if you have not done so yet
 
@@ -35,8 +35,8 @@ If moves struggle to respond look at the terminal output and see what square you
 
 Helpful details for Camera configuration options presented within the CLI
 
-1. Choose the device you wish to use, as far as cameras go this is usually 0 for you main camera but play about with it if it doesn't initiall pick up the correct one
-2. As for angle a helpful image guide can be found below
+1. Choose the device you wish to use, as far as cameras go this is usually 0 for you main camera but play about with it if it doesn't initially pick up the correct one
+2. A helpful image guide for camera configuration can be seen below
 
 |                 Image 1                  |                    Image 2                     |                     Image 3                     |                     Image 4                      |
 | :--------------------------------------: | :--------------------------------------------: | :---------------------------------------------: | :----------------------------------------------: |
@@ -44,3 +44,7 @@ Helpful details for Camera configuration options presented within the CLI
 |         _0/360 Deg angle offset_         |             _90 Deg angle offset_              |             _180 Deg angle offset_              |              _270 Deg angle offset_              |
 
 3. Configure as normal from here
+
+## License details
+
+found [HERE](./LICENSE)
