@@ -35,7 +35,7 @@ If moves struggle to respond look at the terminal output and see what square you
 
 Helpful details for Camera configuration options presented within the CLI
 
-1. Choose the device you wish to use, as far as cameras go this is usually 0 for you main camera but play about with it if it doesn't initially pick up the correct one
+1. Choose the device you wish to use, as far as cameras go this is usually 0 for your main camera but play about with it if it doesn't initially pick up the correct one
 2. A helpful image guide for camera configuration can be seen below
 
 |                 Image 1                  |                    Image 2                     |                     Image 3                     |                     Image 4                      |
